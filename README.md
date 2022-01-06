@@ -1,2 +1,2 @@
 # flaggr
-Postman sync flagger test repo
+Flagger test repo
